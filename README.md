@@ -10,7 +10,7 @@ Easy to use template for Unity OpenVR Input System. Works for Oculus Rift and Vi
 
 ## 설명
 유니티의 OpenVR API 를 통해, 외부 애셋고 플러그인 없이 간결하게 Unity VR 컨트롤러의 위치와 회전을 트래킹 합니다.
-또한 VR 컨트롤러의 입력을 외부 플러그인 없이 받는 방법으 설명합니다.
+또한 VR 컨트롤러의 입력을 외부 플러그인 없이 받는 방법으로 동작합니다.
 
 템플릿으로 사용가능하도록 캡슐화가 되어있습니다.
 주석을 달아두었습니다.
