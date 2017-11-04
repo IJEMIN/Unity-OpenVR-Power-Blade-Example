@@ -43,3 +43,8 @@ Easy to use template for Unity OpenVR Input System. Works for Oculus Rift and Vi
 	0.1f(10%) 이상 트리거가 눌려질시 해당 버튼을 누른것으로 보았다.
 
 	GetAxis 는 입력값을 부드럽게 꺾어준다. 별 상관은 없지만 입력을 즉시 받기 위해, 보간이 없는 GetAxisRaw 를 사용했다.
+
+
+
+# 레퍼런스
+이것을 기반으로 다시 만든 프로젝트 입니다. https://github.com/ozlael/UnityDemo_InputForOVR
